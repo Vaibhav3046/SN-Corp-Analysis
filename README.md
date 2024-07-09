@@ -19,3 +19,5 @@
 **Technology Used:** Power BI.
 
 **Dataset:** https://docs.google.com/spreadsheets/d/1VYpefd_E9NoNTocfB4cVms_zcXj2mE3Y/edit?usp=drive_link
+
+**Open to powerBi** : [Power Bi SN Corp Analysis ppt](https://app.powerbi.com/groups/me/reports/d2813473-beee-4f16-b708-cb9fa92cb2ad?pbi_source=PowerPoint)
